@@ -1,4 +1,4 @@
-# New Ikon Doors
+# New Ikon  Doors
 
 A modern, high-performance web platform and catalog management system for **New Ikon Doors** — showcasing premium doors, laminates, veneer finishes, digital catalogs, branch locations, and customer inquiries with an integrated administration portal.
 
